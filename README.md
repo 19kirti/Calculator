@@ -1,4 +1,4 @@
-## A simple Calculator project 
+## A Simple Calculator Project 
 
 ![bg](https://github.com/user-attachments/assets/000caa59-2cb6-4dec-bdf0-62a46131e993)
 
